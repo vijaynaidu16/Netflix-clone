@@ -3,7 +3,7 @@
 This project is a clone of the Netflix landing user interface (UI), created using HTML and CSS. The goal of the project was to replicate the visually appealing and user-friendly design of the original Netflix website.
 
 ## Live 
-- [Netflix](https://netflix-clone-vijay.netlify.app/)
+- [Netflix](https://ui-netflix-vijay.netlify.app/)
 ## Features
 
 - **Responsive Design:** The clone is built with responsiveness in mind, ensuring that the UI adapts smoothly to different screen sizes and devices.
